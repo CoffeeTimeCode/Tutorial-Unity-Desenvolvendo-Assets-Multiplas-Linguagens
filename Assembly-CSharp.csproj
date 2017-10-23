@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ControladorArquivos.cs" />
      <Compile Include="Assets\Scripts\ControladorLinguagens.cs" />
+     <Compile Include="Assets\Scripts\ControladorUI.cs" />
      <Compile Include="Assets\Scripts\Linguagem.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

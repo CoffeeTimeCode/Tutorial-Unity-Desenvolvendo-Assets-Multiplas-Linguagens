@@ -6,5 +6,8 @@ using UnityEngine;
 public class Linguagem {
 	//Linguagem
 	public string nome_linguagem;
-
+	//Componente - Selecionar Linguagem
+	public string titulo_selecionar_linguagem;
+	public string proximo;
+	public string anterior;
 }
